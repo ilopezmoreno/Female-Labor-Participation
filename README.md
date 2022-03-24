@@ -2,7 +2,7 @@ This repository contains the do-file codes needed to replicate my research progr
 
 To replicate my results just follow these steps:
 
-Save all the do-files in the same folder on your computer. 
+Save all the do-files included in this reposity using the exact name in the same folder on your computer. 
 
 Save the databases in the same folder that where saved the do files on your computer. 
 
