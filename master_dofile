@@ -1,5 +1,5 @@
 * We define the main working directory
-gl root  = "E:\Azael Personal\Documentos\CEEY\8. Invierno 2020\3. Boletín 4 de Movilidad Laboral" // Please specify the working directory using the folder that was created in your computer. 
+gl root  = "C:\Users\Aida Flores\Desktop\Replication Exercise" // Please specify the working directory using the folder that was created in your computer. 
 cd "$root"
 
 * Run the do files
