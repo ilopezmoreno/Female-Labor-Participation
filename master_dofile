@@ -1,10 +1,28 @@
-XXXX
-XXEADE
+* We define the main working directory
+gl root  = "E:\Azael Personal\Documentos\CEEY\8. Invierno 2020\3. Boletín 4 de Movilidad Laboral" // Please specify the working directory using the folder that was created in your computer. 
+cd "$root"
 
-XA
-EDAE
-D
-E
+* Run the do files
 
-TT
-REQ3E
+do "data_download.do"
+cd "$root"
+
+do "data_cleaning.do"	
+cd "$root"
+
+do "data_merging.do"	
+cd "$root"
+
+do "data_transformation.do"	
+cd "$root"
+
+do "regressions.do"	
+cd "$root"
+
+do "graphs.do"	
+cd "$root"
+
+
+
+
+exit, clear
