@@ -11,4 +11,6 @@ You will need the files: coe1t119 / coe2t119 / sdemt119. Please save this databa
 
 Open the master do file, change the working directory using the folder you created in your own computer. 
 
-Run the master dofile. 
+Run the master dofile and you will be able to replicate the results that I have obtained so far. 
+
+If you want an interpretation of the figures please check the following powerpoint presentation: 
