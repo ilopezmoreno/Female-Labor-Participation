@@ -13,4 +13,6 @@ Open the master do file, change the working directory using the folder you creat
 
 Run the master dofile and you will be able to replicate the results that I have obtained so far. 
 
-If you want an interpretation of the figures please check the following powerpoint presentation: 
+If you want an interpretation of the figures please check the following powerpoint presentation: https://www.dropbox.com/scl/fi/pmrj9csowtcz4l19t27dy/PhD-Annual-Review-Isaac-L-pez-Moreno.pptx?dl=0&rlkey=m5g3l71xok2wqfxk2s14heobf
+
+If you have any question please contact me: isaac_dkr@hotmail.com
